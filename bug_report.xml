@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<BugReport>
+		<Summary>The search is case sensetive when it should NOT be </Summary>
+		<Steps>1. got to the Home page</Steps>
+		<Steps>2. Search for 'name'</Steps>
+		<ExpectedResults>1. User should be able to search the product in lower and upper cases</ExpectedResults>
+		<ExpectedResults>2. Search should return at least one product 'name'</ExpectedResults>
+		<Actual result>Search returns 0 results</Actual result>
+	</BugReport>
+</root>
