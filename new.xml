@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <personal_info>Olya_Dolgin</personal_info>
+  <age>40</age>
+  <cars_quantity>2</cars_quantity>
+  <pets>1</pets>
+  <work_outs_done>10000</work_outs_done>
+  <favorite_qoute>stay_hard</favorite_qoute>
+</root>
